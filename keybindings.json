@@ -1,0 +1,22 @@
+[
+    {
+        "key": "ctrl+up",
+        "command": "editor.emmet.action.incrementNumberByOne",
+        "when": "editorTextFocus"
+        },
+        {
+        "key": "ctrl+down",
+        "command": "editor.emmet.action.decrementNumberByOne",
+        "when": "editorTextFocus"
+        },
+        {
+        "key": "shift+down",
+        "command": "editor.emmet.action.decrementNumberByTen",
+        "when": "editorTextFocus"
+        },
+        {
+        "key": "shift+up",
+        "command": "editor.emmet.action.incrementNumberByTen",
+        "when": "editorTextFocus"
+        }
+]
