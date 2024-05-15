@@ -1,7 +1,9 @@
 {
+    "settingsSync.ignoredExtensions": [],
     "workbench.colorTheme": "Cobalt2",
-    "editor.fontFamily": "'Cascadia Code'",
+    "liveServer.settings.CustomBrowser": "firefox",
     "files.autoSave": "afterDelay",
+    "editor.fontFamily": "'Cascadia Code'",
     "editor.fontLigatures": true,
     "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font"
 }
